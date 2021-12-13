@@ -1,4 +1,4 @@
-#Cutiesmh
+# Cutiesmh
 
 ## Repository storing a project submission for UC Riverside's 2020 Cutie Hackathon
 
